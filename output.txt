@@ -1,0 +1,8 @@
+total 40
+-rw-r--r-- 1 marcomacias410 marcomacias410    58 Oct 29 23:59 Makefile
+-rw-r--r-- 1 marcomacias410 marcomacias410    33 Oct 29 23:59 README.md
+-rw-r--r-- 1 marcomacias410 marcomacias410    48 Oct 30 00:00 input.txt
+-rw-r--r-- 1 marcomacias410 marcomacias410     0 Oct 30 00:02 output.txt
+-rwxr-xr-x 1 marcomacias410 marcomacias410 16592 Oct 30 00:00 redir
+-rw-r--r-- 1 marcomacias410 marcomacias410  1705 Oct 29 23:59 redir.c
+-rw-r--r-- 1 marcomacias410 marcomacias410   762 Oct 30 00:02 results.txt

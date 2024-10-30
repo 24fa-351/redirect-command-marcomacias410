@@ -1,0 +1,9 @@
+cat
+dog
+mouse
+rat
+fish
+cow
+zebra
+elephant
+monkey
