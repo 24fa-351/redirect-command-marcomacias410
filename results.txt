@@ -12,7 +12,7 @@ zebra
 ./redir input.txt wc -output.txt
  8  9 48
 
-./redir - ls output.txt
+./redir - ls -
 Makefile
 README.md
 input.txt
@@ -21,15 +21,15 @@ redir
 redir.c
 results.txt
 
-./redir - ls -l output.txt
-total 40
+./redir - "ls -l" -
+total 44
 -rw-r--r-- 1 marcomacias410 marcomacias410    58 Oct 29 23:59 Makefile
 -rw-r--r-- 1 marcomacias410 marcomacias410    33 Oct 29 23:59 README.md
 -rw-r--r-- 1 marcomacias410 marcomacias410    48 Oct 30 00:00 input.txt
--rw-r--r-- 1 marcomacias410 marcomacias410     0 Oct 30 00:01 output.txt
--rwxr-xr-x 1 marcomacias410 marcomacias410 16592 Oct 30 00:00 redir
--rw-r--r-- 1 marcomacias410 marcomacias410  1705 Oct 29 23:59 redir.c
--rw-r--r-- 1 marcomacias410 marcomacias410   809 Oct 30 00:01 results.txt
+-rw-r--r-- 1 marcomacias410 marcomacias410   509 Oct 30 00:02 output.txt
+-rwxr-xr-x 1 marcomacias410 marcomacias410 16968 Nov 11 19:04 redir
+-rw-r--r-- 1 marcomacias410 marcomacias410  3475 Nov 11 19:03 redir.c
+-rw-r--r-- 1 marcomacias410 marcomacias410   760 Oct 30 00:02 results.txt
 
 
 
